@@ -1,0 +1,47 @@
+---
+format: html
+engine: knitr
+toc: false
+lightbox: true
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **PROJE DETAYLARI**
+
+::: {.grid}
+
+::: {.g-col-6}
+
+<center><a><img src="img/k1.png" alt="Logo" width="100%"/></a></center>
+
+:::
+
+::: {.g-col-6}
+
+Proje ekibinin çalışmakta olduğu Üniversiteler gerek basılı yayın gerekse elektronik veritabanları açısından zengin bir altyapıya sahiptir. Alanında tecrübeli olan proje ekibi teorik ve pratik uygulamalarda yetkin ve tecrübelidir.  Proje personeli, kendi içerisinde olabilecek hastalanma/gelememe veya proje süresince ortaya çıkabilecek sorunlara karşı iletişim ve uyumlu çalışma imkânlarından dolayı her an birbirlerine destek verebilecek durumdadırlar.
+
+Proje Doç. Dr. Kadir TUNCER yürütücülüğünde, Burdur Mehmet Akif Ersoy Üniversitesi evsahipliğinde düzenlenecektir. Proje katılımcılarının konaklama giderleri ile iaşe masrafları TÜBİTAK tarafından karşılanacaktır. Proje etkinlikleri 4 tam gün ve günlük yaklaşık 11 saat olacak şekilde; sabahları saat 08:00’da başlayacak, 18.45'e kadar eğitimler devam edilecek şekilde planlanmaktadır.
+
+:::
+
+:::
+
+**Konaklama için Lavanta Tepesi Otel**
+
+::: {layout-ncol=2}
+![Otelden Manzara](img/k2.png){.lightbox}
+
+![Oda](img/k3.png){.lightbox}
+:::
+
+::: {layout-ncol=2}
+![Salda](img/k5.jpg){.lightbox}
+
+![Restaurant](img/k4.png){.lightbox}
+:::

@@ -1,0 +1,45 @@
+---
+format: html
+engine: knitr
+execute:
+  echo: false
+toc: false
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **İLETİŞİM**
+
+::: {.grid}
+
+::: {.g-col-6}
+
+![](img/cont2.png)
+
+:::
+
+::: {.g-col-6}
+
+<br>
+
+**E-Mail:** *oyayla@mehmetakif.edu.tr*
+
+**Tel:** *+90 (0248) 213 10 00*
+
+:::
+
+:::
+
+```{r}
+#| column: screen
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=30.3472, lat=37.6892, popup="MAKÜ")
+```

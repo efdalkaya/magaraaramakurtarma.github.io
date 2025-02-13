@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "MAGARA ARAMA KURTARMA"
+  site-url: "#"
+  bread-crumbs: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Anasayfa
+      - href: projedetay.qmd
+        text: Proje Detayları
+      - href: amackapsam.qmd
+        text: Amaç ve Kapsam     
+      - text: Kurullar
+        menu:
+          - text: "Bilim Kurulu"
+            href: bilimkurulu.qmd
+          - text: "Düzenleme Kurulu"
+            href: duzenlemekurulu.qmd
+          - text: "Eğitmenler"
+            href: egitmenler.qmd
+      - href: hedefkitle.qmd
+        text: Hedef Kitle & Kriterler
+      - href: program.qmd
+        text: Program
+      - href: program.qmd
+        text: Başvuru
+      - href: iletisim.qmd
+        text: İletişim
+    tools:
+      - icon: github
+        href: https://google.com/
+  page-footer: 
+    left: "MAGARA ARAMA KURTARMA &copy; Copyright 2025"
+    right: " "
+    background: "#593196"
+
+format:
+  html:
+    theme: Pulse
+    css: styles.css
+    toc: true
+
+editor: source

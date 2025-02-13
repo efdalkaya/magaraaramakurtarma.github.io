@@ -1,0 +1,59 @@
+---
+format: html
+engine: knitr
+toc: false
+lightbox: true
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **HEDEF KİTLE**
+
+::: {.grid}
+
+::: {.g-col-6}
+![](img/arcgis-mission-banner-fg.png){.lightbox}
+:::
+
+::: {.g-col-6}
+
+Katılımcıların aşağıdaki kriterlere göre başvuru yapmaları beklenmektedir. Kriterler aşağıdaki gibidir;
+
+-	Etkinliğe katılmak isteyenlerin etkinliğin internet sitesinden başvuruda bulunması imkan sağlamaktadır. 
+
+-	Projede Türkiye’nin farklı üniversitelerinde coğrafya lisans (1. 2.  ve 3. sınıf) öğrencileri olması şartı aranmaktadır. 
+
+-	Katılımcı adayların yükseklik korkusu, klostrofobi (kapalı alan korkusu), kapalı alan da kalp çarpıntısı, başka benzer herhangi bir sağlık sorunu (panik atak, nefes almada güçlük vb.) olmaması, fiziksel engelli olmaması gerekmektedir. 
+
+-	Katılacak lisans öğrencilerinin alttan dersi bulunmaması gerekmektedir. 
+
+-	Not ortalamasının 4 üzerinden 2.50 ve üzeri olması (eşitlik olması durumunda AGNO’su daha yüksek olan adaylar tercih edilecektir). Farklı not sistemi uygulayan üniversitelerden başvuranların kurumu tarafından onaylı 4.00/lük not sistemine çevrilmiş belgeleri talep edilecektir. 
+
+-	Başarı sıralamaları (transkript notları) aynı olan öğrencilerin seçiminde ise projeye başvuru tarihi önce olan öğrencinin katılımı sağlanacaktır. 
+
+-	Katılımcı adayların cinsiyet dağılımının mümkün olduğunca eşit olmasına dikkat edilecektir. 
+
+-	Katılımcılara katılım belgesi verilecektir. 
+
+-	Toplam katılımcı sayısı 15 kişidir. 
+
+-	Değerlendirme sonucunda öğrencilerin kabul edilmesi durumunda e-posta ile bilgilendirme yapılacaktır. 
+
+-	Herhangi bir sebepten dolayı eğitime katılamayacak öğrencinin yerine yedek listeden kriterler dikkate alınarak diğer aday dahil edilecektir. 
+
+-	Projeye yeterli başvuru olmaması durumunda Burdur Mehmet Akif Ersoy Üniversitesi, Süleyman Demirel Üniversitesi, Hatay İskenderun Teknik Üniversitesi ve Pamukkale Üniversitesi’nden şartları sağlayan öğrenciler seçilecektir.
+
+-	Mağara içerisinde gezinmeyi rahat bir şekilde sağlayacak uygun kıyafet ve ayakkabı (kaymaz ayakkabı, lastik çizme vb) katılımcılara aittir.
+
+-	Mağara içi aydınlatması için el veya kafa feneri ile kişisel kask temini de katılımcılara aittir.
+
+
+:::
+
+:::
+

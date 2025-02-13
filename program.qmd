@@ -1,0 +1,16 @@
+---
+format: html
+engine: knitr
+toc: false
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **PROGRAM**
+
+Program proje desteklendiği takdirde bu sayfadan ilan edilecektir.

@@ -1,0 +1,77 @@
+---
+format: html
+engine: knitr
+toc: false
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **KURULLAR**
+
+::: {.grid}
+
+::: {.g-col-4}
+
+#### **BİLİM KURULU**
+
+- Prof. Dr. Yıldırım ATAYETER
+
+- Prof. Dr. Erol KAPLUHAN
+
+- Doç. Dr. Kadir TUNCER
+
+- Dr. Öğr. Üyesi Efdal KAYA
+
+- Dr. Öğr. Üyesi Uğur TOZKOPARAN
+
+- Dr. Öğr. Üyesi Onur YAYLA
+
+:::
+
+::: {.g-col-4}
+
+#### **DÜZENLEME KURULU**
+
+- Prof. Dr. Yıldırım ATAYETER
+
+- Doç. Dr. Kadir TUNCER
+
+- Dr. Öğr. Üyesi Efdal KAYA
+
+- Dr. Öğr. Üyesi Uğur TOZKOPARAN
+
+- Dr. Öğr. Üyesi Onur YAYLA
+
+:::
+
+::: {.g-col-4}
+
+#### **EĞİTMENLER**
+
+- Prof. Dr. Yıldırım ATAYETER
+
+- Prof. Dr. Erol KAPLUHAN
+
+- Doç. Dr. Kadir TUNCER
+
+- Dr. Öğr. Üyesi Uğur TOZKOPARAN
+
+- Dr. Öğr. Üyesi Onur YAYLA
+
+- Dr. Öğr. Üyesi Efdal KAYA
+
+- Mehmet Oruç BAYKARA
+
+- Hakan ACAR
+
+- Bekir ERDOĞAN
+
+:::
+
+:::
+

@@ -1,0 +1,60 @@
+---
+format: html
+engine: knitr
+toc: false
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **AMAÇ VE KAPSAM**
+
+::: {.grid}
+
+::: {.g-col-6}
+<center><a><img src="img/amac.png" alt="Logo" width="400px"/></a></center>
+:::
+
+::: {.g-col-6}
+
+**AMAÇ**
+
+Türkiye, jeolojik yapısı gereği yoğun karstik alanlara ve mağara sistemlerine sahip bir ülkedir. Ülkemizde çoğu ülke ile kıyaslanamayacak derecede yoğun olan mağaralar, bulunduğu bölgenin jeolojik, jeomorfolojik, hidrolojik ve ekolojik gelişimini karakterize eden şekil ve yapılara sahiptir. Türkiye’de mağaracılık faaliyetleri başlangıçta bireysel ve bilimsel anlamda başlamış olsa bile günümüzde sportif olarak da devam etmektedir.  Aynı zamanda ülkemizin aktif fay hatları üzerinde yer alması nedeniyle sık depremlerle karşı karşıya kalmaktadır. Bu durum, özellikle afet anlarında dar ve kapalı alanlarda hareket edebilme, mağara sistemlerinde arama-kurtarma operasyonları gerçekleştirme gibi özelleşmiş becerilere sahip ekiplerin yetiştirilmesini gerekli kılmaktadır. Ancak, mevcut afet yönetimi eğitimlerinde mağara kurtarma ve speolojik müdahale gibi konular yeterince ele alınmamaktadır.
+Bu sebeple eğitim programının temel amaçları şöyledir: 
+
+1.	Programın hedefi, katılımcıların yatay ve dikey mağaralar için gerekli eğitimini sağlayarak güvenli şekilde mağaracılığı deneyimlemesi,
+
+2.	Türkiye’de mağaracılığa yeni mağaracıların kazandırılması,
+
+3.	Mağara alanında akademik olarak çalışmak isteyen öğrencilere fırsat tanınması, 
+
+4.	Katılımcılara mağara içerisinde meydana gelebilecek kazaları ve diğer güvenlik problemlerinin üstesinden gelmelerini sağlamaları, 
+
+5.	Katılımcıların temel ilk yardım bilgisine sahip olmaları ve acil durumlarda mağara dışı ortamla iletişim kurma yollarını bilmeleri, 
+
+6.	Teknik malzemeden kaynaklı kazalar, ani su basmaları, taş düşmesi, kaygan zemin, hipotermi ve kişisel hatalardan kaynaklı meydana gelebilecek kazaları önlemek için bilgilerin verilmesi, 
+
+7.	Farklı disiplinlerdeki uzmanları bir araya getirerek, katılımcıların kendi üniversiteleri dışındaki uzmanların bilgi ve deneyimlerden yararlanmasını sağlamak.
+
+8.	Ülkemizde meydana gelebilecek olası afet durumunda arama ve kurtarma çalışmalarında görev alacak kişilerin yetiştirilmesi,
+
+9.	Sivil inisiyatiflere eğitim olanakları sağlayarak, afet öncesi ve sonrasında etkin müdahalede yeti kazandırılması,
+
+10.	Mağara arama ve kurtarma konusunda eğitilen katılımcıların profesyonel arama ve kurtarma ekiplerini destekleyecek ekiplerin oluşturulmasına katkı sağlamak.
+
+11.	Mağara haritalaması konusunda dijital dönüşümlerle yeni yöntemler kullanarak mağaraların haritalanması ve Coğrafi Bilgi Sistemleri kullanımına geliştirmeye yönelik katkı sunmak.
+
+12.	Mağara turizminde mağaraların kullanımı sürecine yönelik eğitimler ile bilinç oluşturulmasına katkı sağlamak.
+
+**KAPSAM**
+
+“Mağaracılık Eğitimi ve Mağarada Arama -Kurtarma” başlıklı etkinlik kapsamında; “Speleoloji, Jeoloji, Jeomorfoloji, Karst Jeomorfolojisi, Coğrafi Bilgi Sistemleri, Acil Yardım ve Afet Yönetimi, Turizm” konularında  7 farklı tema ile gerçekleştirilecektir. Eğitim 15 katılımcı ile 40 saat ve 4 gün olacak şekilde tasarlanmıştır. Eğitimin 10 uzman eğitmen  ve 4 yardımcı personel ile gerçekleştirilmesi planlanmaktadır.  
+Bu eğitim, Mağara Bilimine (Speleoloji)  meraklı ve mağarada arama-kurtarma hakkında bilgi edinmek isteyen öğrenciler için uygundur. Eğitimin hedef kitlesi meraklı, üretmeyi seven ve projedeki temalara ilgisi olan  buluşçu adaylardan oluşacaktır. Eğitim programı, katılımcıların belirlenen temalarda etkin bir şekilde öğrenme deneyimi yaşamalarını sağlayacaktır. 
+
+:::
+
+:::

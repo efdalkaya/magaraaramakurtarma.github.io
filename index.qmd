@@ -1,0 +1,25 @@
+---
+format: html
+engine: knitr
+toc: false
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **Mağaracılık Eğitimi ve Mağarada Arama-Kurtarma**
+
+::: {.justify}
+<br>
+
+<center><a><img src="img/index.png" alt="Desktekleyenler" width="100%"/></a></center>
+
+Bu proje TÜBİTAK tarafından desteklendiği takdirde alanında uzman birçok eğitmen tarafından Mağaracılık, Mağarada Arama Kurtarma konusunda eğitimler verilecektir. Alanında uzman akademisyenlerin katkılarıyla, bu projede yer alacak araştırmacılar, mağara, mağaracılık eğitimi ve mağarada arama kurtarma gibi çeşitli bilimsel konularda kapsamlı ve doğru analizlerin nasıl gerçekleştirileceğini yerinde uygulama yaparak öğrenme şansı elde edilecektir. 
+
+Bu eğitim projesi, lisans seviyesinde birçok öğrenci için eşsiz bir fırsat sunmaktadır. Bu proje desteklendiği takdirde sadece akademik bilgi kazandırmakla kalmayacak, aynı zamanda disiplinler arası iş birliği ile yenilikçi ve verimli çalışma yöntemleri geliştirilmesi imkanını da sağlayacaktır.
+
+:::

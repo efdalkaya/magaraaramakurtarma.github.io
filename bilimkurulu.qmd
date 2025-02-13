@@ -1,0 +1,31 @@
+---
+format: html
+engine: knitr
+toc: false
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **BİLİM KURULU**
+
+::: {.grid}
+
+::: {.g-col-6}
+
+Güncellenmektedir.
+
+:::
+
+::: {.g-col-6}
+
+Güncellenmektedir.
+
+:::
+
+:::
+
